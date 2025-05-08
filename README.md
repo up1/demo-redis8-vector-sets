@@ -56,3 +56,6 @@ $pip install -r requirements.txt
 $python 1_store_data.py
 $python 2_search.py
 ```
+
+## Reference Websites
+* https://www.somkiat.cc/redis-vector-sets-in-redis-8/
