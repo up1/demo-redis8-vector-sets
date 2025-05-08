@@ -59,3 +59,4 @@ $python 2_search.py
 
 ## Reference Websites
 * https://www.somkiat.cc/redis-vector-sets-in-redis-8/
+* https://devmy.it/blog/article/redis-what-a-vector-blast
